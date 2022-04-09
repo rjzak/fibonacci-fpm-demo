@@ -1,0 +1,13 @@
+name = "fibonacci"
+version = "0.1.0"
+license = "Apache-2.0"
+author = "Richard Zak"
+maintainer = "jane.doe@example.com"
+
+[build]
+auto-executables = true
+auto-tests = true
+auto-examples = true
+
+[install]
+library = false
